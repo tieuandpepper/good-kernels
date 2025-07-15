@@ -1,0 +1,5 @@
+torch==2.2.0.dev20250701+cu124  # nightly build with CUDA 12.4  :contentReference[oaicite:6]{index=6}
+torchvision==0.19.0.dev20250701+cu124
+openai>=1.18.0
+tqdm>=4.66
+numpy>=1.26
